@@ -1,3 +1,4 @@
 gen
 JavaLexer.g4
 JavaParser.g4
+.gitignore
